@@ -33,10 +33,10 @@ Note that the fresh water can also be connected to the hot water tank and used
 to heat the water. The fresh cooling water usually reaches 70C.
 
 The fresh water cooling system goes through the following engine/boat part:
-* heat exchanger 
-* thermostat
-* fresh water pump 
-* hot water tank 
+* `heat exchanger `
+* `thermostat`
+* `fresh water pump `
+* `hot water tank `
 * around the various part of the engine which requires to be cooled 
 * back to the heat exchanger
 
