@@ -21,7 +21,7 @@ The engine can be divided into 3 parts:
 The engine needs to be continuously cooled in order to function properly. It
 can run Ok for a short amount of time but rapidly need cooling. 
 
-#### Fresh cooling water 
+##### Fresh cooling water 
 
 The engine is cooled with a cooling water circuit. This is fresh water with 
 optionally some anti-freezing product. This is similar to a car engine. The 
@@ -40,7 +40,7 @@ The fresh water cooling system goes through the following engine/boat part:
 * around the various part of the engine which requires to be cooled 
 * back to the heat exchanger
 
-#### Raw cooling water 
+##### Raw cooling water 
 
 Eventually the fresh water needs to be cooled as well. Raw water (ie the water
 the vessel is sailing on) is used for that purpose. It is continuously pumped 
