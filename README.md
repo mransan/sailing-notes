@@ -66,9 +66,17 @@ engine/boat:
    exhaust. The water is then expelled by the same hole as the exhaust gaz 
    from the engine.
 
+The raw cooling water pump is one of the most often cause of failure. The 
+inpeller which is the main moving part of the pump creating the pressure wears 
+quite often (between a month and a year). This is due to the fact that the sea
+water is not perfectly filtered and debris increase friction and therefore wear
+of the inpeller. Furthermore if part of the inpeller wears out, it can flow 
+through to the downstream part of the engine (ventilation/exhaust) and cause 
+blocage.
+
 **Daily Maintenance**
 
 * Check the fresh cooling water level
 * Check that the raw water valve is open
 * Check the raw water strainer and remove particles 
- 
+* Check the raw water pump inpeller 
