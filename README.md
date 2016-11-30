@@ -74,9 +74,56 @@ of the inpeller. Furthermore if part of the inpeller wears out, it can flow
 through to the downstream part of the engine (ventilation/exhaust) and cause 
 blocage.
 
+Also the pump belt should be check to make sure there the tension is 
+appropriate.
+
 **Daily Maintenance**
 
 * Check the fresh cooling water level
 * Check that the raw water valve is open
 * Check the raw water strainer and remove particles 
 * Check the raw water pump inpeller 
+* Check the tension on the belt
+
+Navigation Websites
+-------
+
+* [NOAA Tide and Currents](https://tidesandcurrents.noaa.gov/noaacurrents/Regions)
+* [NOAA Chart locator](http://www.charts.noaa.gov/InteractiveCatalog/nrnc.shtml)
+
+
+Lovely Boats
+-------
+
+* Catalina 25 
+* Jeanneau 379/349
+* Hunter 33
+
+Build a Boat
+-------
+
+* http://www.clcboats.com/shop/boats/wooden-sailboat-kits/skerry-rowing-sailing-dinghy-kit.html
+* http://www.storerboatplans.com/GIS/GISplan.html
+
+Charter a Boat
+----
+
+* [Port Washington](https://www.yachtico.com/yacht-charters-rentals-port_washington)
+
+
+Renovation
+------
+
+**Fake teak for floor**
+
+* [video 1](https://www.youtube.com/watch?v=f5dkBdAl7uI)
+* [video 2](https://www.youtube.com/watch?v=PLYN_tEeJ7Y)
+
+**Varnishing**
+
+* [video 1](https://www.youtube.com/watch?v=5Bk7Tb0Zi48)
+
+**Example**
+
+* [video 1](https://www.youtube.com/watch?v=1fS_4qFwa8A)
+* [video 2](https://www.youtube.com/watch?v=67kwbnUZZZA)
