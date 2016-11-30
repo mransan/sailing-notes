@@ -113,15 +113,14 @@ Build a Boat
 Charter a Boat
 ----
 
-* [Port Washington](https://www.yachtico.com/
-yacht-charters-rentals-port_washington)
+* [Port Washington](https://www.yachtico.com/yacht-charters-rentals-port_washington)
 
 
 Renovation
 ------
 
-* [Interior Repair Playlist](https://www.youtube.com/playlist?list
-=PLtN4mFOAwi6PJgzYlirAdPDV9Vetu4D-A)
+* [Interior Repair Playlist](https://www.youtube.com/playlist?list=PLtN4mFOAwi6PJgzYlirAdPDV9Vetu4D-A)
+* [DIY Project + Renovation](https://stingysailor.com/2014/12/21/ten-most-popular-diy-projects-of-2014-2/)
 
 **Fake teak for floor**
 
