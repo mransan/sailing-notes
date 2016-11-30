@@ -107,17 +107,22 @@ Listings
 Build a Boat
 -------
 
-* http://www.clcboats.com/shop/boats/wooden-sailboat-kits/skerry-rowing-sailing-dinghy-kit.html
-* http://www.storerboatplans.com/GIS/GISplan.html
+* [link 1](http://www.clcboats.com/shop/boats/wooden-sailboat-kits/
+skerry-rowing-sailing-dinghy-kit.html)
+* [link 2](http://www.storerboatplans.com/GIS/GISplan.html)
 
 Charter a Boat
 ----
 
-* [Port Washington](https://www.yachtico.com/yacht-charters-rentals-port_washington)
+* [Port Washington](https://www.yachtico.com/
+yacht-charters-rentals-port_washington)
 
 
 Renovation
 ------
+
+* [Interior Repair Playlist](https://www.youtube.com/playlist?list
+=PLtN4mFOAwi6PJgzYlirAdPDV9Vetu4D-A)
 
 **Fake teak for floor**
 
