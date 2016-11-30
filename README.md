@@ -107,8 +107,7 @@ Listings
 Build a Boat
 -------
 
-* [link 1](http://www.clcboats.com/shop/boats/wooden-sailboat-kits/
-skerry-rowing-sailing-dinghy-kit.html)
+* [link 1](http://www.clcboats.com/shop/boats/wooden-sailboat-kits/skerry-rowing-sailing-dinghy-kit.html)
 * [link 2](http://www.storerboatplans.com/GIS/GISplan.html)
 
 Charter a Boat
