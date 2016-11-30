@@ -91,6 +91,14 @@ Navigation Websites
 * [NOAA Tide and Currents](https://tidesandcurrents.noaa.gov/noaacurrents/Regions)
 * [NOAA Chart locator](http://www.charts.noaa.gov/InteractiveCatalog/nrnc.shtml)
 
+Book 
+-----
+
+* Jimmy Cornell: World Cruising Routes
+* Jimmy Cornell: World Cruising handbook
+* Antoine: Metre les voiles
+* Chart #1 
+
 
 Lovely Boats
 -------
