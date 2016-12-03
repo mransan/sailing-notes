@@ -99,7 +99,6 @@ Book
 * Antoine: Metre les voiles
 * Chart #1 
 
-
 Lovely Boats
 -------
 
@@ -129,6 +128,9 @@ Renovation
 
 * [Interior Repair Playlist](https://www.youtube.com/playlist?list=PLtN4mFOAwi6PJgzYlirAdPDV9Vetu4D-A)
 * [DIY Project + Renovation](https://stingysailor.com/2014/12/21/ten-most-popular-diy-projects-of-2014-2/)
+* [The Boat Galley](https://theboatgalley.com/)
+* [Complete Illustrated Sailboat Maintenance Manual](https://www.amazon.com/dp/0071462848/?tag=theboagal0a-20)
+* [This Old Boat](https://www.amazon.com/dp/0071477942/?tag=theboagal0a-20) 
 
 **Fake teak for floor**
 
@@ -138,6 +140,11 @@ Renovation
 **Varnishing**
 
 * [video 1](https://www.youtube.com/watch?v=5Bk7Tb0Zi48)
+
+
+**Cushion making**
+
+* [Sailrite](http://www.sailrite.com/How-To-Projects-Guides/Projects-and-Tips/Marine-Projects)
 
 **Example**
 
